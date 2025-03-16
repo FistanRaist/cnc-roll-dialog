@@ -1,0 +1,21 @@
+{
+    "id": "cnc-roll-dialog",
+    "title": "Castles & Crusades Roll Dialog",
+    "description": "Adds customizable dialogs to rolls in Castles & Crusades with modifier options.",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "systems": ["castles-and-crusades"],
+    "scripts": ["roll-dialog.js"],
+    "templates": ["templates/roll-dialog.hbs"],
+    "authors": [
+        {
+            "name": "FistanRaist"
+        }
+    ],
+    "url": "https://github.com/FistanRaist/cnc-roll-dialog",
+    "manifest": "https://github.com/FistanRaist/cnc-roll-dialog/releases/latest/download/module.json",
+    "download": "https://github.com/FistanRaist/cnc-roll-dialog/releases/download/v1.0.0/cnc-roll-dialog.zip"
+}
